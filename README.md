@@ -1,29 +1,27 @@
-# 🎬 Movie Search App
+#  Movie Search App
 
 A modern, responsive movie search application built with React and the OMDB API. Search for your favorite movies, view detailed information, ratings, cast, and more with a sleek Netflix-inspired interface.
 
-![React](https://img.shields.io/badge/React-18.x-61dafb?logo=react)
-![Vite](https://img.shields.io/badge/Vite-5.x-646cff?logo=vite)
-![React Router](https://img.shields.io/badge/React_Router-6.x-ca4245?logo=react-router)
 
-## ✨ Features
 
-- 🔍 **Search Movies** - Search for any movie by title using the OMDB API
-- 🎥 **Movie Cards** - Beautiful grid layout displaying movie posters, titles, and years
-- 📄 **Detailed View** - Click any movie to see full details including:
+## Features
+
+-  **Search Movies** - Search for any movie by title using the OMDB API
+-  **Movie Cards** - Beautiful grid layout displaying movie posters, titles, and years
+-  **Detailed View** - Click any movie to see full details including:
   - Plot synopsis
   - Cast and crew (actors, director, writer)
   - Ratings (IMDb, Rotten Tomatoes, Metacritic)
   - Release year, runtime, and rating
   - Genre tags
   - Awards and accolades
-- 🔄 **React Router** - Smooth navigation between search and detail pages
-- ⏳ **Loading States** - Visual feedback while fetching data
-- ⚠️ **Error Handling** - User-friendly error messages for failed requests or no results
-- 📱 **Responsive Design** - Works perfectly on desktop, tablet, and mobile devices
-- 🎨 **Modern UI** - Dark theme with smooth animations and hover effects
+-  **React Router** - Smooth navigation between search and detail pages
+-  **Loading States** - Visual feedback while fetching data
+-  **Error Handling** - User-friendly error messages for failed requests or no results
+-  **Responsive Design** - Works perfectly on desktop, tablet, and mobile devices
+-  **Modern UI** - Dark theme with smooth animations and hover effects
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **React** - UI library for building component-based interfaces
 - **Vite** - Next-generation frontend build tool
@@ -32,13 +30,13 @@ A modern, responsive movie search application built with React and the OMDB API.
 - **CSS3** - Modern styling with flexbox, grid, and animations
 - **PropTypes** - Runtime type checking for React props
 
-## 📋 Prerequisites
+##  Prerequisites
 
 Before you begin, ensure you have the following installed:
 - **Node.js** (version 14 or higher)
 - **npm** (comes with Node.js)
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Get Your OMDB API Key
 
@@ -48,7 +46,7 @@ Before you begin, ensure you have the following installed:
 4. Check your email and click the activation link
 5. Copy your API key
 
-## 🎮 How to Use
+##  How to Use
 
 1. **Search for Movies**
    - Enter a movie title in the search box
@@ -66,7 +64,7 @@ Before you begin, ensure you have the following installed:
    - Click the "Back to Search" button to return to search results
    - Your previous search will be preserved
 
-## 🎨 Key Features Explained
+##  Key Features Explained
 
 ### State Management
 - Uses React's `useState` hook for managing:
@@ -113,7 +111,7 @@ Before you begin, ensure you have the following installed:
 - The app displays "No Poster Available" as a fallback
 - This is normal and expected behavior
 
-## 📝 API Limitations
+##  API Limitations
 
 The free OMDB API tier has:
 - 1,000 daily requests
@@ -122,7 +120,7 @@ The free OMDB API tier has:
 
 For production apps, consider upgrading to a paid tier.
 
-## 🤝 Contributing
+##  Contributing
 
 This is a learning project, but feel free to:
 - Fork the repository
@@ -130,21 +128,21 @@ This is a learning project, but feel free to:
 - Submit pull requests
 - Report bugs or suggest features
 
-## 📄 License
+##  License
 
 This project is open source.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [OMDB API](https://www.omdbapi.com/) for providing the movie data
 
 - Netflix for design inspiration
 
-## 📧 Contact
+##  Contact
 
 If you have questions or suggestions, feel free to reach out!
 
 
 ---
 
-**Happy Movie Searching! 🍿**
+**Happy Movie Searching! **
