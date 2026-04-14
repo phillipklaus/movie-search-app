@@ -16,7 +16,7 @@ body {
 }
 
 .app-header {
-  background: linear-gradient(135deg, #e50914 0%, #b20710 100%);
+  background: linear-gradient(135deg, #460306 10%, #b20710 100%);
   padding: 20px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
   position: sticky;
